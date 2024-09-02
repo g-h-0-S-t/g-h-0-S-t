@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a Dev with over 12+ yrs XP into e-commerce, maritime, aviation, travel, finance and cyber-security domains.
+I am a Dev with over 12+ yrs XP into e-commerce, maritime, aviation, travel, finance and cyber-security domains.
