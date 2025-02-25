@@ -1,5 +1,5 @@
 
-# Hi! 👋
+# Hey!
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome&width=800&height=400)](https://github.com/g-h-0-S-t/)
 
