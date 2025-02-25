@@ -22,7 +22,7 @@ My journey with technology began in **1995**, and I've been professionally activ
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-h-0-S-t&layout=compact&theme=neon)](https://github.com/g-h-0-S-t)
 
 ### Contribution Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=g-h-0-S-t&theme=tokyo-night&bg_color=000)](https://github.com/g-h-0-S-t/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=g-h-0-S-t&theme=tokyo-night&bg_color=000)](https://github.com/g-h-0-S-t/)
 
 ### GitHub trophy
 
