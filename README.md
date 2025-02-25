@@ -1,7 +1,7 @@
 
 # Hey there buddy!
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome&width=800&height=400)](https://github.com/g-h-0-S-t/)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome...&width=800&height=400)](https://github.com/g-h-0-S-t/)
 
 ## About Me
 I am a **software developer** with expertise in **e-commerce, maritime, aviation, travel, finance, inventory,** and **cybersecurity systems**.  
@@ -26,7 +26,9 @@ My journey with technology began in **1995**, and I've been professionally activ
 
 ### GitHub trophy
 
+[
 <img src="https://github-profile-trophy.vercel.app/?username=g-h-0-S-t&theme=radical" />
+](https://github.com/g-h-0-S-t/)
 
 ## Workflow Diagram
 
