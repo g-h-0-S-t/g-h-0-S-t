@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer with expertise in e-commerce, maritime, aviation, travel, finance, and cybersecurity. My journey with technology began in 1995, and I've been professionally active in software development since 2012.
+I am a software developer with expertise in e-commerce, maritime, aviation, travel, finance, inventory and cybersecurity systems. My journey with technology began in 1995, and I've been professionally active in software development since 2012.
