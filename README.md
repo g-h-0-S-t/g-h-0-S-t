@@ -5,8 +5,11 @@
 
 ## About Me
 Creator of **Wraith - Invisible AI Interview Assistant** ([https://wraith-api.onrender.com](https://wraith-api.onrender.com)).  
+
 I am a **software engineer** with expertise in **e-commerce, maritime, aviation, travel, finance, inventory,** and **cybersecurity systems**.  
-My journey with technology began in **1995**, and I've been professionally active in software development since **2012**.
+My journey with technology began in **1995**, and I've been professionally active in software development since **2012**.  
+
+I've also contributed to [Anonymous](https://en.wikipedia.org/wiki/Anonymous_(hacker_group)) operations: [OpDeathEaters](https://en.wikipedia.org/wiki/Heather_Marsh) (hunting pedos, taking down pedo rings), [OpISIS](https://en.wikipedia.org/wiki/Ghost_Security) (taking down clearnet recruitment platforms of terror orgs like ISIS, LeT, etc.)
 
 ## Skills & Technologies
 
