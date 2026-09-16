@@ -17,23 +17,6 @@ I've also contributed to [Anonymous](https://en.wikipedia.org/wiki/Anonymous_(ha
 ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
-## GitHub Stats & Graphs
-
-### GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-h-0-S-t&show_icons=true&theme=neon)](https://github.com/g-h-0-S-t)
-
-### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-h-0-S-t&layout=compact&theme=neon)](https://github.com/g-h-0-S-t)
-
-### Contribution Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=g-h-0-S-t&theme=tokyo-night&bg_color=000)](https://github.com/g-h-0-S-t/)
-
-### GitHub trophy
-
-[
-<img src="https://github-profile-trophy.vercel.app/?username=g-h-0-S-t&theme=radical" />
-](https://github.com/g-h-0-S-t/)
-
 ## Workflow Diagram
 
 Below is a Mermaid diagram representing my typical development workflow:
